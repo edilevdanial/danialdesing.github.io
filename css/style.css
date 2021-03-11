@@ -290,7 +290,7 @@ h6 {
 .wrapper .footer__wrapper .header__contact .header__contact-link:first-child {
   margin-left: 0px;
 }
-img{
+.header__contact img{
   width: 15px;
   vertical-align: top;
 }
